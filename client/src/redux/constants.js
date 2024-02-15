@@ -1,0 +1,7 @@
+export const BASE_URL = "http://localhost:3000/"
+export const USERS_URL = "http://localhost:3000/api/users"
+export const CATEGORY_URL = "http://localhost:3000/api/category"
+export const PRODUCT_URL = "http://localhost:3000/api/products"
+export const UPLOAD_URL = "http://localhost:3000/api/upload"
+export const ORDERS_URL = "http://localhost:3000/api/orders"
+export const PAYPAL_URL = "http://localhost:3000/api/config/paypal"
